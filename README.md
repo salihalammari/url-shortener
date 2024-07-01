@@ -19,7 +19,7 @@ npm install express mongoose cors body-parser uuid
 - **mongoose**: An Object Data Modeling (ODM) library for MongoDB and Node.js.
 - **cors**: Enables Cross-Origin Resource Sharing (CORS).
 - **body-parser**: Parses incoming request bodies.
-- **uid**: Generates unique identifiers for URLs.
+- **uuid**: Generates unique identifiers for URLs.
 
 ### Step 2: Create Your Server
 
